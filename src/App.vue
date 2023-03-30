@@ -2,7 +2,9 @@
   <div class="wrapper">
     <page-header></page-header>
     <page-nav></page-nav>
-    <page-main></page-main>
+    <page-main>
+      
+    </page-main>
     <page-aside></page-aside>
     <page-footer></page-footer>
   </div>
